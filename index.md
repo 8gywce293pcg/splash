@@ -29,7 +29,7 @@ Jeg er en ekspert
 <br>
 <br>
 
-## Hvis du vil tilbake til denne siden trykker du `Alt + Home`
+## For å komme tilbake til denne siden trykker du `Alt + Home`
 
 <br>
 <br>
