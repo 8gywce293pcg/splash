@@ -3,7 +3,7 @@
 
 ## Har du kodet før? - Velg vanskelighetsgrad:
 
-### [Jeg har aldri kodet før](https://github.com/8gywce293pcg/splash/novice.md)
+### [Jeg har aldri kodet før](https://8gywce293pcg.github.io/splash/novice.md)
 
 ### [Jeg kan en del](https://github.com/8gywce293pcg/splash/intermediate.md)
 
