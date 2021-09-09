@@ -5,10 +5,9 @@
 
 ### [Jeg har aldri kodet før](novice.md)
 
+### [Jeg kan en del](intermediate.md)
 
-### [Jeg kan en del](https://github.com/8gywce293pcg/splash/intermediate.md)
-
-### [Jeg er en ekspert](https://github.com/8gywce293pcg/splash/expert.md)
+### [Jeg er en ekspert](expert.md)
 
 
 
