@@ -6,11 +6,11 @@
 
 ## Har du kodet før? - Velg vanskelighetsgrad:
 
-### [Jeg har aldri kodet før](nybegynner.md)
+### [Nybegynner](nybegynner.md) - Jeg har aldri kodet før
 
-### [Jeg kan en del](viderekommen.md)
+### [Viderekommen](viderekommen.md) - Jeg kan en del
 
-### [Jeg er en ekspert](ekspert.md)
+### [Ekspert](ekspert.md) - Jeg er en ekspert
 
 
 <br>
