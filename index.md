@@ -10,8 +10,7 @@ Velg vanskelighetsgrad:
 <br>
 
 ### [Nybegynner](nybegynner.md)
-
-Jeg har aldri kodet før
+- Jeg har aldri kodet før
 
 <br>
 
