@@ -6,8 +6,7 @@
 
 ## Har du kodet før? - Velg vanskelighetsgrad:
 
-### [Nybegynner](nybegynner.md)
--Jeg har aldri kodet før
+### [Nybegynner](nybegynner.md) -Jeg har aldri kodet før
 
 ### [Viderekommen](viderekommen.md) - Jeg kan en del
 
