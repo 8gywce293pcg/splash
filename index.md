@@ -5,7 +5,7 @@
 
 
 ## Har du kodet før?
--Velg vanskelighetsgrad:
+- Velg vanskelighetsgrad:
 
 <br>
 
@@ -15,12 +15,12 @@
 <br>
 
 # [Viderekommen](viderekommen.md)
--Jeg kan en del
+- Jeg kan en del
 
 <br>
 
 # [Ekspert](ekspert.md)
--Jeg er en ekspert
+- Jeg er en ekspert
 
 <br>
 <br>
