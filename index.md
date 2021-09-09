@@ -5,24 +5,22 @@
 
 
 ## Har du kodet før?
-Velg vanskelighetsgrad:
+-Velg vanskelighetsgrad:
 
 <br>
 
-## [Nybegynner](nybegynner.md)
+# [Nybegynner](nybegynner.md)
 - Jeg har aldri kodet før
 
 <br>
 
-## [Viderekommen](viderekommen.md)
-
-Jeg kan en del
+# [Viderekommen](viderekommen.md)
+-Jeg kan en del
 
 <br>
 
-## [Ekspert](ekspert.md)
-
-Jeg er en ekspert
+# [Ekspert](ekspert.md)
+-Jeg er en ekspert
 
 <br>
 <br>
