@@ -15,6 +15,9 @@
 
 <br>
 <br>
+
+## Hvis du vil tilbake til denne siden trykker du `Alt + Home`
+
 <br>
 <br>
 <br>
