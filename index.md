@@ -3,6 +3,7 @@
 
 # **Velkommen til Koderommet**
 
+
 ## Har du kodet før?
 Velg vanskelighetsgrad:
 
