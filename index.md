@@ -1,5 +1,26 @@
-## Velkommen til Koderommet
+# **Velkommen til Koderommet**
 
+
+## Har du kodet før? - Velg vanskelighetsgrad:
+
+### [Jeg har aldri kodet før](https://github.com/8gywce293pcg/splash/novice.md)
+
+### [Jeg kan en del](https://github.com/8gywce293pcg/splash/intermediate.md)
+
+### [Jeg er en ekspert](https://github.com/8gywce293pcg/splash/expert.md)
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------
 You can use the [editor on GitHub](https://github.com/8gywce293pcg/splash/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
