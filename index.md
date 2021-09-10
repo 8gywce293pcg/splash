@@ -1,5 +1,6 @@
 ![Inspiria Logo](logo_72.png)
 <br>
+<br>
 
 # **Velkommen til Koderommet**
 
