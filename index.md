@@ -1,5 +1,5 @@
+![Inspiria](logo/logo_72_hvit.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ![Equinor](logo/equinor_72_blue.png)
 
-![Inspiria Logo](logo_72_hvit.png)
 
 ------------------------------------------------------
 
