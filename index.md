@@ -1,4 +1,4 @@
-![Inspiria](logo/logo_72_hvit.png)  $~$   ![Equinor](logo/equinor_72_blue.png)
+![Inspiria](logo/logo_72_hvit.png)  &nbsp; &nbsp; &nbsp;   ![Equinor](logo/equinor_72_blue.png)
 
 
 ------------------------------------------------------
