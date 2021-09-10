@@ -1,4 +1,4 @@
-![Inspiria Logo](logo_72.png)
+![Inspiria Logo](logo_72_hvit.png)
 <br>
 <br>
 
