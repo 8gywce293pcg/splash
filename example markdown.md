@@ -1,4 +1,10 @@
-Alt under blir fjernet, har det her for markdown syntax eksempler.
+Mastering Markdown:
+https://guides.github.com/features/mastering-markdown/
+
+
+
+
+
 
 -----------------------------------------------------------------
 
