@@ -24,6 +24,5 @@
 
 <br>
 <br>
-<br>
 
 ## For å komme tilbake til denne siden trykker du `Alt + Home`
