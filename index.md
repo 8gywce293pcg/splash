@@ -1,5 +1,5 @@
 <br>
-![Inspiria Logo](logo_72_hvit.png)
+![Inspiria Logo](logo_72_hvit.png) ![Inspiria Logo](logo_72.png)
 
 ------------------------------------------------------
 
