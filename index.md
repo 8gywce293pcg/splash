@@ -1,4 +1,3 @@
-<br>
 ![Inspiria Logo](logo_72.png)
 <br>
 
