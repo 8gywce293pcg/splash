@@ -8,6 +8,14 @@
 
 ## Oppgaver for nybegynnere:
 
-[Tenn en LED på Displayet](https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/rgb-matrix-single-led)
+[LED Matrix Display - Tenn en LED](https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/rgb-matrix-single-led)
 
-[Blink en LED på Displayet](https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/rgb-matrix-single-blink-led)
+[LED Matrix Display - Blink en LED](https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/rgb-matrix-single-blink-led)
+
+[LED Matrix Display - Blink en tilfeldig LED](https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/rgb-matrix-single-tilfeldig-blink-led)
+
+[LED Matrix Display - Blink en tilfeldig LED og farge](https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/rgb-matrix-4-tilfeldig-led-og-farge)
+
+[LED Matrix Display - Tenn en rett linje](https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/rgb-matrix-rett-linje)
+
+[LED Matrix Display - Tenn alle, en etter en](https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/rgb-matrix-en-etter-en-alle)
