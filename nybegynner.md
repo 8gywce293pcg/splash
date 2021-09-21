@@ -19,3 +19,5 @@
 [LED Matrix Display - Tenn en rett linje](https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/rgb-matrix-rett-linje)
 
 [LED Matrix Display - Tenn alle, en etter en](https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/rgb-matrix-en-etter-en-alle)
+
+[Musikk - Star Wars](https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/musikk-starwars)
