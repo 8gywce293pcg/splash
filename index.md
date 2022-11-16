@@ -6,7 +6,7 @@
 # **Velkommen til Koderommet**
 
 
-## Har du kodet før? velg vanskelighetsgrad under:
+## Har du kodet før? Velg vanskelighetsgrad under:
 
 <br>
 
