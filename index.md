@@ -9,6 +9,8 @@
 ## Har du kodet før? Velg vanskelighetsgrad under:
 
 <br>
+>:buttons
+>>:button label=Github, url=https://github.com
 
 ## [Nybegynner](nybegynner.md)
 - Jeg har aldri kodet før
