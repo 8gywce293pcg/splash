@@ -13,6 +13,9 @@
 
 <button type='button' name="button"onclick="location.href='nybegynner.md'">Click me</button>
 
+[![button](http://www.presentationpro.com/images/product/medium/slide/PPP_CGENE_LT3_Presentation-PowerPoint-Slide-Graphic_Push_Button_Up.jpg)](https://mattermost.com)
+
+<a><button name="button" style = "color: red" onclick="https://www.w3schools.com/CPP/cpp_math.asp">`cmath`on w3schools</button></a>
 
 ## [Nybegynner](nybegynner.md)
 - Jeg har aldri kodet før
