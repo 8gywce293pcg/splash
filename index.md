@@ -11,7 +11,7 @@
 
 <br>
 
-<button name="button">Click me</button>
+<button type='button' name="button"onclick="location.href='nybegynner.md'">Click me</button>
 
 
 ## [Nybegynner](nybegynner.md)
