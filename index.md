@@ -1,3 +1,4 @@
+
 ![Inspiria](logo/logo_72_hvit.png)  &nbsp; &nbsp; &nbsp;   ![Equinor](logo/equinor_72_blue.png)
 
 
@@ -9,8 +10,9 @@
 ## Har du kodet før? Velg vanskelighetsgrad under:
 
 <br>
->:buttons
->>:button label=Github, url=https://github.com
+
+<button name="button">Click me</button>
+
 
 ## [Nybegynner](nybegynner.md)
 - Jeg har aldri kodet før
