@@ -20,8 +20,3 @@
 
 [LED Matrix Display - Tenn alle, en etter en](https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/rgb-matrix-en-etter-en-alle)
 
-[Musikk - Star Wars](https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/musikk-starwars)
-
-[Musikk - Nokia Ringetone](https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/musikk-nokia-ringetone)
-
-[Musikk - Twinkle Twinkle Little Star](https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/musikk-twinkle-twinkle-star)

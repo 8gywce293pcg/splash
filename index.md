@@ -11,11 +11,11 @@
 
 <br>
 
-<a><button type='button' name="button"onclick="location.href='nybegynner.md'">Click me</button></a>
+<a><button type='button' name="button" onclick="location.href='nybegynner.md'">Click me</button></a>
 
-[![button](logo/logo_72.png))](nybegynner.md)
+[Knapp her](nybegynner.md)
 
-<a><button name="button" style = "color: red" onclick=(nybegynner.md)>Nybegynner</button></a>
+<a><button name="button" style = "color: red" onclick=/nybegynner>Nybegynner</button></a>
 
 ## [Nybegynner](nybegynner.md)
 - Jeg har aldri kodet før
