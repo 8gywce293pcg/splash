@@ -11,10 +11,11 @@
 
 <br>
 
-[![lys](logo/lys.jpg)](/nybegynner.html)
+[![lys](logo/lys.jpg)](splash/nybegynner.html)
+[![lys](logo/lys.jpg)](nybegynner.md)
 
+try 8
 
-mer testing
 ## [Nybegynner](nybegynner.md)
 - Jeg har aldri kodet før
 
