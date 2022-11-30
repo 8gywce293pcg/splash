@@ -9,6 +9,7 @@ header {
 .homebutton {
   display: block;
   text-align: center;
+  width: 900px;
   padding: 40px 40px;
   border: 1px solid #be002c;
   border-radius: 8px;
@@ -134,9 +135,7 @@ header {
   background: -moz-linear-gradient(top, #629300, #629300);
   background: linear-gradient(to bottom, #629300, #629300);
 }
-.site{
-  width:900px
-}
+
 .container {  display: grid;
   grid-template-columns: 150px 150px 150px 150px;
   grid-template-rows: 150px 150px;

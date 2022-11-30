@@ -8,7 +8,7 @@
 ## Oppgaver for spill:
 
 Innhold under utvikling.
-<div class="site"></div>
+
 <br>
 
 <a class="homebutton" href="/splash/index.html">Gå tilbake</a>

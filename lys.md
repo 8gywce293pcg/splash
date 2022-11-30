@@ -8,7 +8,7 @@ ver 2
 ## Oppgaver for lys:
 
 <br>
-<div class="site">
+
 <div class="container">
   <a class="lysbutton1" href="/">Oppsett</a>
   <a class="lysbutton2" href="https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/rgb-matrix-single-led">Tenn en LED</a>
@@ -19,7 +19,7 @@ ver 2
   <a class="lysbutton7" href="https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/rgb-matrix-en-etter-en-alle">Tenn alle, en etter en</a>
   <a class="lysbutton8" href="">Sandkasse</a>
 </div>
-</div>
+
 <br>
 
 <a class="homebutton" href="/splash/index.html">Gå tilbake</a>
