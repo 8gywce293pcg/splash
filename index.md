@@ -13,6 +13,8 @@
 
 [![lys](logo/lys.jpg)](nybegynner.md)
 
+
+mer testing
 ## [Nybegynner](nybegynner.md)
 - Jeg har aldri kodet før
 
