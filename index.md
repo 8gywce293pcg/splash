@@ -19,6 +19,6 @@
 
 <br>
 
-<div class="site"></div>
+<div class="header"></div>
 
 ## For å komme tilbake til denne siden trykker du `Alt + Home`
