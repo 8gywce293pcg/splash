@@ -6,6 +6,38 @@
 header {
   display: none;
 }
+.homebutton {
+  display: block;
+  text-align: center;
+  padding: 40px 40px;
+  border: 1px solid #be002c;
+  border-radius: 8px;
+  background: #ff0053;
+  background: -webkit-gradient(linear, left top, left bottom, from(#ff0053), to(#be002c));
+  background: -moz-linear-gradient(top, #ff0053, #be002c);
+  background: linear-gradient(to bottom, #ff0053, #be002c);
+  text-shadow: #70001a 1px 1px 1px;
+  font: normal normal bold 20px arial;
+  color: #ffffff;
+  text-decoration: none;
+}
+.homebutton:hover,
+.homebutton:focus {
+  border: 1px solid #e00034;
+  background: #ff0064;
+  background: -webkit-gradient(linear, left top, left bottom, from(#ff0064), to(#e40035));
+  background: -moz-linear-gradient(top, #ff0064, #e40035);
+  background: linear-gradient(to bottom, #ff0064, #e40035);
+  color: #ffffff;
+  text-decoration: none;
+}
+.homebutton:active {
+  background: #be002c;
+  background: -webkit-gradient(linear, left top, left bottom, from(#be002c), to(#be002c));
+  background: -moz-linear-gradient(top, #be002c, #be002c);
+  background: linear-gradient(to bottom, #be002c, #be002c);
+}
+
 
 .lysbutton {
   display: block;
