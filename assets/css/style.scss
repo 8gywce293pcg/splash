@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+
+header{
+  display: none;
+}
+
 .site{
   width: 900px;
 }
