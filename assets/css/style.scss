@@ -148,8 +148,9 @@ header {
 }
 
 .lysbutton1 {
-  place-self: center;
   grid-area: lysbutton1;
+  place-self: center;
+  align-content: center;
   display: block;
   text-align: center;
   border: 1px solid #c01464;
@@ -182,8 +183,9 @@ header {
 }
 
 .lysbutton2 {
-  place-self: center;
   grid-area: lysbutton2;
+  place-self: center;
+  align-content: center;
   display: block;
   text-align: center;
   border: 1px solid #c01464;
@@ -216,8 +218,9 @@ header {
 }
 
 .lysbutton3 {
-  place-self: center;
   grid-area: lysbutton3;
+  place-self: center;
+  align-content: center;
   display: block;
   text-align: center;
   border: 1px solid #c01464;
@@ -250,8 +253,9 @@ header {
 }
 
 .lysbutton4 {
-  place-self: center;
   grid-area: lysbutton4;
+  place-self: center;
+  align-content: center;
   display: block;
   text-align: center;
   border: 1px solid #c01464;
@@ -284,7 +288,11 @@ header {
 }
 
 .lysbutton5 {
+  grid-area: lysbutton5;
   place-self: center;
+  align-content: center;
+  display: block;
+  text-align: center;
   border: 1px solid #c01464;
   border-radius: 8px;
   background: #ff25bd;
@@ -316,6 +324,10 @@ header {
 
 .lysbutton6 {
   grid-area: lysbutton6;
+  place-self: center;
+  align-content: center;
+  display: block;
+  text-align: center;
   display: block;
   border: 1px solid #c01464;
   border-radius: 8px;
@@ -348,8 +360,11 @@ header {
 
 .lysbutton7 {
   grid-area: lysbutton7;
+  place-self: center;
+  align-content: center;
   display: block;
   text-align: center;
+  display: block;
   border: 1px solid #c01464;
   border-radius: 8px;
   background: #ff25bd;
@@ -380,8 +395,10 @@ header {
 }
 
 .lysbutton8 {
-  place-self: center;
   grid-area: lysbutton8;
+  display: block;
+  place-self: center;
+  align-content: center;
   display: block;
   text-align: center;
   border: 1px solid #c01464;
