@@ -7,12 +7,12 @@ header {
   display: none;
 }
 
-.button {
+.lysbutton {
   display: inline-block;
   text-align: center;
   vertical-align: middle;
-  padding: 20px 200px;
-  border: 1px solid #c01464;
+  padding: 40px 400px;
+  border: 8px solid #c01464;
   border-radius: 8px;
   background: #ff25bd;
   background: -webkit-gradient(linear, left top, left bottom, from(#ff25bd), to(#c01464));
@@ -23,8 +23,8 @@ header {
   color: #ffffff;
   text-decoration: none;
 }
-.button:hover,
-.button:focus {
+.lysbutton:hover,
+.lysbutton:focus {
   border: 1px solid #e21776;
   background: #ff2ce3;
   background: -webkit-gradient(linear, left top, left bottom, from(#ff2ce3), to(#e61878));
@@ -33,7 +33,7 @@ header {
   color: #ffffff;
   text-decoration: none;
 }
-.button:active {
+.lysbutton:active {
   background: #c01464;
   background: -webkit-gradient(linear, left top, left bottom, from(#c01464), to(#c01464));
   background: -moz-linear-gradient(top, #c01464, #c01464);

@@ -13,7 +13,7 @@
 
 [![lys](logo/lys.jpg)](/splash/nybegynner.html)
 
-<a class="button" href="/splash/nybegynner.html">Lys</a>
+<a class="lysbutton" href="/splash/nybegynner.html">Lys</a>
 
 try 10
 
