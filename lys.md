@@ -6,7 +6,7 @@
 
 ### [< Gå tilbake](index.md)
 
-## Oppgaver for nybegynnere:
+## Oppgaver for lys:
 
 [LED Matrix Display - Tenn en LED](https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/rgb-matrix-single-led)
 

@@ -5,7 +5,7 @@
 <br>
 ### [< Gå tilbake](index.md)
 
-## Oppgaver for viderekommende:
+## Oppgaver for musikk:
 
 [Musikk - Star Wars](https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/musikk-starwars)
 

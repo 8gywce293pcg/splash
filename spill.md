@@ -5,6 +5,6 @@
 <br>
 ### [< Gå tilbake](index.md)
 
-## Oppgaver for eksperter:
+## Oppgaver for spill:
 
 Innhold under utvikling.

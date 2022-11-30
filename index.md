@@ -11,11 +11,11 @@
 
 <br>
 
-[![lys](logo/lys.jpg)](/splash/nybegynner.html)
+<a class="lysbutton" href="/splash/lys.html">Lys</a>
 
-<a class="lysbutton" href="/splash/nybegynner.html">Lys</a>
+<a class="musikkbutton" href="/splash/musikk.html">Musikk</a>
 
-try 10
+<a class="spillbutton" href="/splash/spill.html">Spill</a>
 
 ## [Nybegynner](nybegynner.md)
 - Jeg har aldri kodet før
