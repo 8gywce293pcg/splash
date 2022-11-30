@@ -11,7 +11,7 @@
 
 <br>
 
-[![lys](logo/lys.jpg)](/nybegynner/)
+[![lys](logo/lys.jpg)](/nybegynner.html)
 
 
 mer testing
