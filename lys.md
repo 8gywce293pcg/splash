@@ -9,7 +9,6 @@ ver 2
 
 <br>
 
-<div class="site"></div>
 <div class="container">
   <a class="lysbutton1" href="/">Oppsett</a>
   <a class="lysbutton2" href="https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/rgb-matrix-single-led">Tenn en LED</a>
