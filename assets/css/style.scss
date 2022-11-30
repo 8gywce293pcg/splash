@@ -40,9 +40,8 @@ header {
 }
 
 .musikkbutton {
-  display: inline-block;
+  display: block;
   text-align: center;
-  vertical-align: middle;
   padding: 40px 400px;
   border: 1px solid #2b80a0;
   border-radius: 8px;
@@ -73,9 +72,8 @@ header {
 }
 
 .spillbutton {
-  display: inline-block;
+  display: block;
   text-align: center;
-  vertical-align: middle;
   padding: 40px 410px;
   border: 1px solid #629300;
   border-radius: 8px;
@@ -103,4 +101,64 @@ header {
   background: -webkit-gradient(linear, left top, left bottom, from(#629300), to(#629300));
   background: -moz-linear-gradient(top, #629300, #629300);
   background: linear-gradient(to bottom, #629300, #629300);
+}
+
+.container {  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 0px 0px;
+  grid-auto-flow: row;
+  grid-template-areas:
+    "lysbutton1 lysbutton2 lysbutton3 lysbutton4"
+    "lysbutton5 lysbutton6 lysbutton7 lysbutton8";
+}
+
+
+.lysbutton2 { grid-area: lysbutton2; }
+
+.lysbutton3 { grid-area: lysbutton3; }
+
+.lysbutton4 { grid-area: lysbutton4; }
+
+.lysbutton5 { grid-area: lysbutton5; }
+
+.lysbutton6 { grid-area: lysbutton6; }
+
+.lysbutton7 { grid-area: lysbutton7; }
+
+.lysbutton8 { grid-area: lysbutton8; }
+
+
+.lysbutton1 {
+  grid-area: lysbutton1;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  padding: 40px 40px;
+  border: 1px solid #c01464;
+  border-radius: 8px;
+  background: #ff25bd;
+  background: -webkit-gradient(linear, left top, left bottom, from(#ff25bd), to(#c01464));
+  background: -moz-linear-gradient(top, #ff25bd, #c01464);
+  background: linear-gradient(to bottom, #ff25bd, #c01464);
+  text-shadow: #710c3b 1px 1px 1px;
+  font: normal normal bold 20px arial;
+  color: #ffffff;
+  text-decoration: none;
+}
+.lysbutton1:hover,
+.lysbutton1:focus {
+  border: 1px solid #e21776;
+  background: #ff2ce3;
+  background: -webkit-gradient(linear, left top, left bottom, from(#ff2ce3), to(#e61878));
+  background: -moz-linear-gradient(top, #ff2ce3, #e61878);
+  background: linear-gradient(to bottom, #ff2ce3, #e61878);
+  color: #ffffff;
+  text-decoration: none;
+}
+.lysbutton1:active {
+  background: #c01464;
+  background: -webkit-gradient(linear, left top, left bottom, from(#c01464), to(#c01464));
+  background: -moz-linear-gradient(top, #c01464, #c01464);
+  background: linear-gradient(to bottom, #c01464, #c01464);
 }
