@@ -286,9 +286,6 @@ header {
 
 .lysbutton5 {
   place-self: center;
-  grid-area: lysbutton5;
-  display: block;
-  text-align: center;
   border: 1px solid #c01464;
   border-radius: 8px;
   background: #ff25bd;
@@ -319,10 +316,8 @@ header {
 }
 
 .lysbutton6 {
-  place-self: center;
   grid-area: lysbutton6;
   display: block;
-  text-align: center;
   border: 1px solid #c01464;
   border-radius: 8px;
   background: #ff25bd;
@@ -353,7 +348,6 @@ header {
 }
 
 .lysbutton7 {
-  place-self: center;
   grid-area: lysbutton7;
   display: block;
   text-align: center;
