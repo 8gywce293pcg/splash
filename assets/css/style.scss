@@ -186,11 +186,9 @@ header {
 
 .lysbutton2 {
   grid-area: lysbutton2;
-  width: 100%;
-  height: 100%;
-  vertical-align: middle;
-  place-self: center;
-  align-content: center;
+  display: flex;
+  align-items:center;
+  justify-content:center;
   text-align: center;
   border: 1px solid #c01464;
   border-radius: 8px;
@@ -223,11 +221,9 @@ header {
 
 .lysbutton3 {
   grid-area: lysbutton3;
-  place-self: center;
-  align-content: center;
-  width: 100%;
-  height: 100%;
-  vertical-align: middle;
+  display: flex;
+  align-items:center;
+  justify-content:center;
   text-align: center;
   border: 1px solid #c01464;
   border-radius: 8px;
@@ -260,11 +256,9 @@ header {
 
 .lysbutton4 {
   grid-area: lysbutton4;
-  place-self: center;
-  align-content: center;
-  width: 100%;
-  height: 100%;
-  vertical-align: middle;
+  display: flex;
+  align-items:center;
+  justify-content:center;
   text-align: center;
   border: 1px solid #c01464;
   border-radius: 8px;
@@ -297,11 +291,9 @@ header {
 
 .lysbutton5 {
   grid-area: lysbutton5;
-  place-self: center;
-  align-content: center;
-  width: 100%;
-  height: 100%;
-  vertical-align: middle;
+  display: flex;
+  align-items:center;
+  justify-content:center;
   text-align: center;
   border: 1px solid #c01464;
   border-radius: 8px;
@@ -334,11 +326,9 @@ header {
 
 .lysbutton6 {
   grid-area: lysbutton6;
-  place-self: center;
-  align-content: center;
-  width: 100%;
-  height: 100%;
-  vertical-align: middle;
+  display: flex;
+  align-items:center;
+  justify-content:center;
   text-align: center;
   border: 1px solid #c01464;
   border-radius: 8px;
@@ -371,11 +361,9 @@ header {
 
 .lysbutton7 {
   grid-area: lysbutton7;
-  place-self: center;
-  align-content: center;
-  width: 100%;
-  height: 100%;
-  vertical-align: middle;
+  display: flex;
+  align-items:center;
+  justify-content:center;
   text-align: center;
   border: 1px solid #c01464;
   border-radius: 8px;
@@ -408,11 +396,9 @@ header {
 
 .lysbutton8 {
   grid-area: lysbutton8;
-  place-self: center;
-  align-content: center;
-  width: 100%;
-  height: 100%;
-  vertical-align: middle;
+  display: flex;
+  align-items:center;
+  justify-content:center;
   text-align: center;
   border: 1px solid #c01464;
   border-radius: 8px;
