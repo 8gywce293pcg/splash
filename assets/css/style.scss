@@ -148,7 +148,19 @@ header {
     "lysbutton5 lysbutton6 lysbutton7 lysbutton8";
 }
 
-.lysbutton1 { grid-area: lysbutton1; align-items: stretch;}
+.lysbutton1 { grid-area: lysbutton1;   display: block;
+  text-align: center;
+  border: 1px solid #c01464;
+  border-radius: 8px;
+  background: #ff25bd;
+  background: -webkit-gradient(linear, left top, left bottom, from(#ff25bd), to(#c01464));
+  background: -moz-linear-gradient(top, #ff25bd, #c01464);
+  background: linear-gradient(to bottom, #ff25bd, #c01464);
+  text-shadow: #710c3b 1px 1px 1px;
+  font: normal normal bold 20px arial;
+  color: #ffffff;
+  text-decoration: none;
+  align-items:center}
 .lysbutton2 { grid-area: lysbutton2; align-items: stretch;}
 .lysbutton3 { grid-area: lysbutton3; align-items: stretch;}
 .lysbutton4 { grid-area: lysbutton4; align-items: stretch;}

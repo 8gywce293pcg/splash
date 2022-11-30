@@ -11,7 +11,7 @@ ver 2
 
 <div class="site"></div>
 <div class="container">
-  <div class="lysbutton1"><a class=litenlysbutton href="">Oppsett</a></div>
+  <a class="lysbutton1" href="/">Oppsett</a>
   <div class="lysbutton2"> <a class=litenlysbutton href="https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/rgb-matrix-single-led">Tenn en LED</a></div>
   <div class="lysbutton3"><a class=litenlysbutton href="https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/rgb-matrix-single-blink-led">Blink en LED</a></div>
   <div class="lysbutton4"><a class=litenlysbutton href="https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/rgb-matrix-single-tilfeldig-blink-led">Blink en tilfeldig LED</a></div>
