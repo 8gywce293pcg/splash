@@ -11,11 +11,7 @@
 
 <br>
 
-<a><button type='button' name="button" onclick="location.href='nybegynner.md'">Click me</button></a>
-
-[Knapp her](nybegynner.md)
-
-<a><button name="button" style = "color: red" onclick=/nybegynner>Nybegynner</button></a>
+![lys](logo/lys.jpg)(nybegynner.md)
 
 ## [Nybegynner](nybegynner.md)
 - Jeg har aldri kodet før
