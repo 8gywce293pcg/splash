@@ -7,15 +7,15 @@
 # **Velkommen til Koderommet**
 
 
-## Har du kodet før? Velg vanskelighetsgrad under:
+## Hva har du lyst til å kode? Velg kategori her:
 
 <br>
 
 [![lys](logo/lys.jpg)](/splash/nybegynner.html)
-[![lys](logo/lys.jpg)](/nybegynner.md)
-[![lys](logo/lys.jpg)](/nybegynner.html)
 
-try 9
+<a class="button" href="/splash/nybegynner.html">Lys</a>
+
+try 10
 
 ## [Nybegynner](nybegynner.md)
 - Jeg har aldri kodet før
