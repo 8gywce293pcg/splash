@@ -140,7 +140,7 @@ header {
 .container {  display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr;
-  gap: 0px 0px;
+  gap: 10px 10px;
   grid-auto-flow: row;
   grid-template-areas:
     "lysbutton1 lysbutton2 lysbutton3 lysbutton4"
@@ -160,7 +160,6 @@ header {
   grid-area: lysbutton1;
   display: block;
   text-align: center;
-  padding: 40px 40px;
   border: 1px solid #c01464;
   border-radius: 8px;
   background: #ff25bd;
@@ -171,6 +170,7 @@ header {
   font: normal normal bold 20px arial;
   color: #ffffff;
   text-decoration: none;
+  align-items:center
 }
 .litenlysbutton:hover,
 .litenlysbutton:focus {
