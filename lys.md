@@ -3,11 +3,10 @@
 
 ------------------------------------------------------
 <br>
+
 ver 2
 
 ## Oppgaver for lys:
-
-<br>
 
 <div class="container">
   <a class="lysbutton1" href="/">Oppsett</a>
