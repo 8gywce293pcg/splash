@@ -1,4 +1,3 @@
-<div class="header">
 ![Inspiria](logo/logo_72_hvit.png)  &nbsp; &nbsp; &nbsp;   ![Equinor](logo/equinor_72_blue.png)
 
 
@@ -7,7 +6,7 @@
 ver 2
 
 ## Oppgaver for lys:
-</div>
+
 <br>
 
 <div class="container">
