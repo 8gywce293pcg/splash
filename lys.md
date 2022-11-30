@@ -22,7 +22,7 @@
 
 <div class="container">
   <div class="lysbutton1"></div>
-  <div class="lysbutton2" href="https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/rgb-matrix-single-led">Tenn en LED</div>
+  <div class="lysbutton2"> <a class=litenlysbutton href="https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/rgb-matrix-single-led">Tenn en LED</a></div>
   <div class="lysbutton3"></div>
   <div class="lysbutton4"></div>
   <div class="lysbutton5"></div>
