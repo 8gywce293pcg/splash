@@ -136,6 +136,7 @@ header {
 }
 
 .container {  display: grid;
+  width: 500px;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr;
   gap: 0px 0px;
@@ -144,6 +145,15 @@ header {
     "lysbutton1 lysbutton2 lysbutton3 lysbutton4"
     "lysbutton5 lysbutton6 lysbutton7 lysbutton8";
 }
+
+.lysbutton1 { grid-area: lysbutton1; }
+.lysbutton2 { grid-area: lysbutton2; }
+.lysbutton3 { grid-area: lysbutton3; }
+.lysbutton4 { grid-area: lysbutton4; }
+.lysbutton5 { grid-area: lysbutton5; }
+.lysbutton6 { grid-area: lysbutton6; }
+.lysbutton7 { grid-area: lysbutton7; }
+.lysbutton8 { grid-area: lysbutton8; }
 
 .litenlysbutton {
   grid-area: lysbutton1;
@@ -179,11 +189,3 @@ header {
   background: linear-gradient(to bottom, #c01464, #c01464);
 }
 
-.lysbutton1 { grid-area: lysbutton1; }
-.lysbutton2 { grid-area: lysbutton2; }
-.lysbutton3 { grid-area: lysbutton3; }
-.lysbutton4 { grid-area: lysbutton4; }
-.lysbutton5 { grid-area: lysbutton5; }
-.lysbutton6 { grid-area: lysbutton6; }
-.lysbutton7 { grid-area: lysbutton7; }
-.lysbutton8 { grid-area: lysbutton8; }
