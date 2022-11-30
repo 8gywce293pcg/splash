@@ -8,6 +8,7 @@
 
 <br>
 
+<div class="site"></div>
 <div class="container">
   <div class="lysbutton1"><a class=litenlysbutton href="">Oppsett</a></div>
   <div class="lysbutton2"> <a class=litenlysbutton href="https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/rgb-matrix-single-led">Tenn en LED</a></div>
@@ -18,7 +19,6 @@
   <div class="lysbutton7"><a class=litenlysbutton href="https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/rgb-matrix-en-etter-en-alle">Tenn alle, en etter en</a></div>
   <div class="lysbutton8"><a class=litenlysbutton href="">Sandkasse</a></div>
 </div>
-
 <br>
 
 <a class="homebutton" href="/splash/index.html">Gå tilbake</a>

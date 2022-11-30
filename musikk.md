@@ -14,5 +14,6 @@
 [Musikk - Twinkle Twinkle Little Star](https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/musikk-twinkle-twinkle-star)
 
 <br>
+<div class="site"></div>
 
 <a class="homebutton" href="/splash/index.html">Gå tilbake</a>

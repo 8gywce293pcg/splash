@@ -134,9 +134,10 @@ header {
   background: -moz-linear-gradient(top, #629300, #629300);
   background: linear-gradient(to bottom, #629300, #629300);
 }
-
+.site{
+  width:900px
+}
 .container {  display: grid;
-  width: 500px;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr;
   gap: 0px 0px;
@@ -157,9 +158,8 @@ header {
 
 .litenlysbutton {
   grid-area: lysbutton1;
-  display: inline-block;
+  display: block;
   text-align: center;
-  vertical-align: middle;
   padding: 40px 40px;
   border: 1px solid #c01464;
   border-radius: 8px;
