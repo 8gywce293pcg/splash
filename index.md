@@ -11,7 +11,7 @@
 
 <br>
 
-![lys](logo/lys.jpg)(nybegynner.md)
+[![lys](logo/lys.jpg)](nybegynner.md)
 
 ## [Nybegynner](nybegynner.md)
 - Jeg har aldri kodet før
