@@ -142,24 +142,24 @@ header {
   grid-template-rows: 218px 218px;
   gap: 10px 10px;
   grid-auto-flow: row;
+  align-items: stretch;
   grid-template-areas:
     "lysbutton1 lysbutton2 lysbutton3 lysbutton4"
     "lysbutton5 lysbutton6 lysbutton7 lysbutton8";
 }
 
-.lysbutton1 { grid-area: lysbutton1; place-content: center; }
-.lysbutton2 { grid-area: lysbutton2; place-content: center; }
-.lysbutton3 { grid-area: lysbutton3; place-content: center; }
-.lysbutton4 { grid-area: lysbutton4; place-content: center; }
-.lysbutton5 { grid-area: lysbutton5; place-content: center; }
-.lysbutton6 { grid-area: lysbutton6; place-content: center; }
-.lysbutton7 { grid-area: lysbutton7; place-content: center; }
-.lysbutton8 { grid-area: lysbutton8; place-content: center; }
+.lysbutton1 { grid-area: lysbutton1; }
+.lysbutton2 { grid-area: lysbutton2; }
+.lysbutton3 { grid-area: lysbutton3; }
+.lysbutton4 { grid-area: lysbutton4; }
+.lysbutton5 { grid-area: lysbutton5; }
+.lysbutton6 { grid-area: lysbutton6; }
+.lysbutton7 { grid-area: lysbutton7; }
+.lysbutton8 { grid-area: lysbutton8; }
 
 .litenlysbutton {
   display: block;
   text-align: center;
-  place-self: center;
   border: 1px solid #c01464;
   border-radius: 8px;
   background: #ff25bd;
