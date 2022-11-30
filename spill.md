@@ -10,5 +10,5 @@
 Innhold under utvikling.
 
 <br>
-
+<div class="site"></div>
 <a class="homebutton" href="/splash/index.html">Gå tilbake</a>
