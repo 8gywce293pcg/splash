@@ -4,7 +4,8 @@
 ------------------------------------------------------
 <div class="site"></div>
 <br>
-### [< Gå tilbake](index.md)
+
+I de 50 årene dataspill har eksistert har populariteten deres eksplodert. I gamle dager måtte man dra til spesielle møteplasser og restauranter som kaltes arkader for å spille på maskiner som var større enn kjøleskap. Sakte men sikkert ble maskinene mindre og kraftigere, og i dag er det mere kraft i mobilene våre enn det var i en hel arkade da spill først ble populært. Her skal vi lære å lage våre egne spill med hjelp av MakeCode Arcade.
 
 ## Oppgaver for spill:
 

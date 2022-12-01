@@ -5,6 +5,8 @@
 <div class="site"></div>
 <br>
 
+Å lage musikk med digitale instrumenter er på moten. Flere og flere artister lager sanger hvor det meste av komposisjonen er laget av datamaskiner. Profesjonelle musikere bruker avanserte programmer som etterligner ekte instrumenter. Disse er ofte svært virkelighetstro og kraftige, men også ofte litt vanskelige å bruke. Her skal vi lære å spille kjente sanger på pianoet som er innebygd i MakeCode.
+
 ## Oppgaver for musikk:
 
 <div class="musikkcontainer">
