@@ -8,7 +8,7 @@ ver 2
 
 ## Oppgaver for lys:
 
-<div class="container">
+<div class="lyscontainer">
   <a class="lysbutton1" href="/">Oppsett</a>
   <a class="lysbutton2" href="https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/rgb-matrix-single-led">Tenn en LED</a>
   <a class="lysbutton3" href="https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/rgb-matrix-single-blink-led">Blink en LED</a>

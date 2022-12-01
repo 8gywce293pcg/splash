@@ -3,15 +3,19 @@
 
 ------------------------------------------------------
 <br>
-### [< Gå tilbake](index.md)
 
 ## Oppgaver for musikk:
 
-[Musikk - Star Wars](https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/musikk-starwars)
-
-[Musikk - Nokia Ringetone](https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/musikk-nokia-ringetone)
-
-[Musikk - Twinkle Twinkle Little Star](https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/musikk-twinkle-twinkle-star)
+<div class="musikkcontainer">
+  <a class="musikkbutton1" href="https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/musikk-starwars">Star Wars</a>
+  <a class="musikkbutton2" href="https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/musikk-nokia-ringetone">Nokia ringetone</a>
+  <a class="musikkbutton3" href="https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/musikk-twinkle-twinkle-star">Twinkle Twinkle Little Star</a>
+  <a class="musikkbutton4" href="">Innhold kommer</a>
+  <a class="musikkbutton5" href="">Innhold kommer</a>
+  <a class="musikkbutton6" href="">Innhold kommer</a>
+  <a class="musikkbutton7" href="">Innhold kommer</a>
+  <a class="musikkbutton8" href="">Innhold kommer</a>
+</div>
 
 <br>
 <div class="site"></div>
