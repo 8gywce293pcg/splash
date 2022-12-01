@@ -10,7 +10,7 @@ I de 50 årene dataspill har eksistert har populariteten deres eksplodert. I gam
 ## Oppgaver for spill:
 
 <div class="spillcontainer">
-  <a class="spillbutton1" href="">Innhold kommer</a>
+  <a class="spillbutton1" href="/splash/configspill.html">Oppsett</a>
   <a class="spillbutton2" href="">Innhold kommer</a>
   <a class="spillbutton3" href="">Innhold kommer</a>
   <a class="spillbutton4" href="">Innhold kommer</a>
