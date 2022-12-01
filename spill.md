@@ -9,14 +9,14 @@
 ## Oppgaver for spill:
 
 <div class="spillcontainer">
-  <a class="spillbutton1" href=""></a>
-  <a class="spillbutton2" href=""></a>
-  <a class="spillbutton3" href=""></a>
-  <a class="spillbutton4" href=""></a>
-  <a class="spillbutton5" href=""></a>
-  <a class="spillbutton6" href=""></a>
-  <a class="spillbutton7" href=""></a>
-  <a class="spillbutton8" href=""></a>
+  <a class="spillbutton1" href="">Innhold kommer</a>
+  <a class="spillbutton2" href="">Innhold kommer</a>
+  <a class="spillbutton3" href="">Innhold kommer</a>
+  <a class="spillbutton4" href="">Innhold kommer</a>
+  <a class="spillbutton5" href="">Innhold kommer</a>
+  <a class="spillbutton6" href="">Innhold kommer</a>
+  <a class="spillbutton7" href="">Innhold kommer</a>
+  <a class="spillbutton8" href="">Innhold kommer</a>
 </div>
 
 <br>
