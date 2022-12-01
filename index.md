@@ -3,6 +3,7 @@
 
 
 ------------------------------------------------------
+<div class="site"></div>
 <br>
 # **Velkommen til Koderommet**
 
@@ -19,6 +20,5 @@
 
 <br>
 
-<div class="site"></div>
 
 ## For å komme tilbake til denne siden trykker du `Alt + Home`

@@ -2,6 +2,7 @@
 
 
 ------------------------------------------------------
+<div class="site"></div>
 <br>
 
 ## Oppgaver for musikk:
@@ -18,5 +19,6 @@
 </div>
 
 <br>
-<div class="site"></div>
+
+
 <a class="homebutton" href="/splash/index.html">Gå tilbake</a>

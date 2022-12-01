@@ -2,6 +2,7 @@
 
 
 ------------------------------------------------------
+<div class="site"></div>
 <br>
 ### [< Gå tilbake](index.md)
 
@@ -19,5 +20,4 @@
 </div>
 
 <br>
-<div class="site"></div>
 <a class="homebutton" href="/splash/index.html">Gå tilbake</a>
