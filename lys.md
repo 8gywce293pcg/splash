@@ -5,7 +5,7 @@
 <div class="site"></div>
 <br>
 
-LED står for Light Emitting Diode, og er et elektronisk komponent som lager lys. Diodene vi skal bruke har tre forskjellige farger: rød, grønn, og blå. Med disse tre primærfargene kan vi lage alle tenkelige farger. Lær å bruke Micro:bit-en sammen med Neopixel utvidelsen for å kontrollere lysene.
+LED står for Light Emitting Diode, og er et elektronisk komponent som lager lys. Diodene vi skal bruke har tre forskjellige farger: rød, grønn, og blå. Med disse tre primærfargene kan vi lage alle tenkelige farger. Denne teknologien brukes i skjermer og tv-er for å vise bildene vi ser. Lær å bruke Micro:bit-en sammen med Neopixel utvidelsen for å kontrollere lysene.
 
 ## Oppgaver for lys:
 
