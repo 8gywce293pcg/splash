@@ -17,7 +17,7 @@ LED står for Light Emitting Diode, og er et elektronisk komponent som lager lys
   <a class="lysbutton5" href="https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/rgb-matrix-4-tilfeldig-led-og-farge">Blink en tilfeldig LED og farge</a>
   <a class="lysbutton6" href="https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/rgb-matrix-rett-linje">Tenn en rett linje</a>
   <a class="lysbutton7" href="https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/rgb-matrix-en-etter-en-alle">Tenn alle, en etter en</a>
-  <a class="lysbutton8" href="https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/rgb_matric_sandbox/tutorial">Sandkasse</a>
+  <a class="lysbutton8" href="https://makecode.microbit.org/#tutorial:https://github.com/8gywce293pcg/rgb-matric-sandbox/Tutorial">Sandkasse</a>
 </div>
 
 <br>
