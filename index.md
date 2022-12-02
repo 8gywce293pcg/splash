@@ -1,29 +1,24 @@
+
 ![Inspiria](logo/logo_72_hvit.png)  &nbsp; &nbsp; &nbsp;   ![Equinor](logo/equinor_72_blue.png)
 
 
 ------------------------------------------------------
+<div class="site"></div>
 <br>
 # **Velkommen til Koderommet**
 
 
-## Har du kodet før? Velg vanskelighetsgrad under:
+## Hva har du lyst til å kode? Velg kategori her:
 
 <br>
 
-## [Nybegynner](nybegynner.md)
-- Jeg har aldri kodet før
+<a class="lysbutton" href="/splash/lys.html">Lys</a>
+
+<a class="musikkbutton" href="/splash/musikk.html">Musikk</a>
+
+<a class="spillbutton" href="/splash/spill.html">Spill</a>
 
 <br>
 
-## [Viderekommen](viderekommen.md)
-- Jeg kan en del
-
-<br>
-
-## [Ekspert](ekspert.md)
-- Jeg er en ekspert
-
-<br>
-<br>
 
 ## For å komme tilbake til denne siden trykker du `Alt + Home`

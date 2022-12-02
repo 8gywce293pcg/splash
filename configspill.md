@@ -2,9 +2,12 @@
 
 
 ------------------------------------------------------
+<div class="site"></div>
 <br>
-### [< Gå tilbake](index.md)
 
-## Oppgaver for eksperter:
+## Slik kobler du til MakeCode konsollen:
 
-Innhold under utvikling.
+Info kommer
+
+<br>
+<a class="homebutton" href="/splash/spill.html">Gå tilbake</a>

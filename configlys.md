@@ -2,9 +2,12 @@
 
 
 ------------------------------------------------------
+<div class="site"></div>
 <br>
-### [< Gå tilbake](index.md)
 
-## Oppgaver for viderekommende:
+## Slik kobler du til LED-lysene:
 
-Innhold under utvikling.
+Info kommer
+
+<br>
+<a class="homebutton" href="/splash/lys.html">Gå tilbake</a>
