@@ -11,9 +11,9 @@ I de 50 årene dataspill har eksistert har populariteten deres eksplodert. I gam
 
 <div class="spillcontainer">
   <a class="spillbutton1" href="/splash/configspill.html">Oppsett</a>
-  <a class="spillbutton2" href="">Innhold kommer</a>
-  <a class="spillbutton3" href="">Innhold kommer</a>
-  <a class="spillbutton4" href="">Innhold kommer</a>
+  <a class="spillbutton2" href="https://arcade.makecode.com/#tutorial:/tutorials/chase-the-pizza">Chase the Pizza</a>
+  <a class="spillbutton3" href="https://arcade.makecode.com/#tutorial:/tutorials/lemon-leak">Lemon Leak</a>
+  <a class="spillbutton4" href="https://arcade.makecode.com/#tutorial:/tutorials/galga">Galga</a>
   <a class="spillbutton5" href="">Innhold kommer</a>
   <a class="spillbutton6" href="">Innhold kommer</a>
   <a class="spillbutton7" href="">Innhold kommer</a>
