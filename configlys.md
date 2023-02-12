@@ -7,7 +7,7 @@
 
 ## Slik kobler du til LED-lysene:
 
-Info kommer
+Info kommer.
 
 <br>
 <a class="homebutton" href="/splash/lys.html">Gå tilbake</a>
